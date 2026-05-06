@@ -10,6 +10,7 @@ const roleToRoute = {
   disbursement: "/dashboard/disbursement",
   collection: "/dashboard/collection",
   admin: "/dashboard/sales",
+  borrower:"/apply/status",
 };
 
 export default function DashboardPage() {
